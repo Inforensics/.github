@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Welcome to Inforensics.ai's GitHub page!
+## Welcome to Inforensics.ai's GitHub page! 👋
 
 ### 🙋‍♀️ Who We Are
 Inforensics.ai is dedicated to advancing the field of digital forensics and open-source intelligence (OSINT). Our mission is to develop innovative tools and methodologies to assist in the investigation and resolution of complex digital cases.
