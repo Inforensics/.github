@@ -28,7 +28,7 @@ At Inforensics.ai, we develop:
 
 ### 📫 Get in Touch
 - **Email**: [info@inforensics.ai](mailto:info@inforensics.ai)
-- **Twitter**: [@InforensicsAI](https://twitter.com/Inforensic)
+- **Twitter**: [@Inforensic](https://twitter.com/Inforensic)
 <!--- - **LinkedIn**: [Inforensics.ai](https://www.linkedin.com/company/inforensics-ai) --->
 
 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Let's make the world a safer place together!
