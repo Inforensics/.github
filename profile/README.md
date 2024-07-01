@@ -33,4 +33,4 @@ At Inforensics.ai, we develop:
 
 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Let's make the world a safer place together!
 
-![Inforensics](https://github.com/Inforensics/.github/blob/main/logo-mag-text.png)
+![Inforensics](https://github.com/Inforensics/.github/blob/main/logo.png)
